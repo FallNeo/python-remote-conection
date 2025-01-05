@@ -1,2 +1,4 @@
 # python-remote-conection
-This project allows the connection of two computers remotely through the use of sockets
+
+Para el uso del servidor se requiere el paso de dos parametros mediante la consola. Ejemplo:
+Server.py -ip "direccion ip" -p "puerto"
